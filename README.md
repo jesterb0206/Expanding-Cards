@@ -15,11 +15,11 @@
 
 <br>
 
-[Deployment](https://jesterb0206.github.io/Expanding-Cards/)
+![Expanding Cards](images/expanding-cards.png)
 
 <br>
 
-![Expanding Cards](images/expanding-cards.png)
+[Deployment](https://jesterb0206.github.io/Expanding-Cards/)
 
 <br>
 

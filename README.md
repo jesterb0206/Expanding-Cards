@@ -15,7 +15,15 @@
 
 <br>
 
-**To-Do**
+[Deployment](https://jesterb0206.github.io/Expanding-Cards/)
+
+<br>
+
+![Expanding Cards](images/expanding-cards.png)
+
+<br>
+
+☝🏻 Click there!
 
 <br>
 

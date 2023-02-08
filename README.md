@@ -63,10 +63,6 @@ Project 1 of 50 Projects In 50 Days - HTML, CSS, and JavaScript by Brad Traversy
 
 <br>
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-<br>
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
